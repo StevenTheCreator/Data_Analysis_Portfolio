@@ -17,3 +17,21 @@ Ventas totales por categoría:
 ![Captura de pantalla de tu query](images/query&result_1.jpg)
 
 R/ La categoria con mas ventas es la de Furniture con un total_ventas de 13811.02
+
+### 2.¿Qué región vende más?
+Se seleccionan todas las regiones de la tabla y en base a las ventas se categorizan de mayor a menor (DESC):
+
+![Captura de pantalla de tu query](images/query&result_2.jpg)
+
+R/ La region con mas ventas es la West con un total_ventas de 10189.26 y una cantidad de 48 ventas sacadas con el COUNT(sales).
+
+### 3.¿Qué segmento de clientes genera más ventas?
+
+![Captura de pantalla de tu query](images/query&result_3.jpg)
+
+R/ El segment que mas ventas genero es el de Consumer con total_ventas de 19343.58 y una cantidad de num_ordenes (cada una con distinto order_id) de 39. Se evidencia que los Consumer son los que mas generan mas en sales al negocio
+
+### 4.¿Cuáles son los 5 productos más vendidos?
+
+
+
