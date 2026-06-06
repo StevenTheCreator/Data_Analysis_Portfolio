@@ -12,7 +12,6 @@ A través de este análisis, busco identificar patrones de consumo, evaluar el r
 ## Análisis y Resultados
 
 ### 1.¿Cuál es la categoría de productos con más ventas?
-Ventas totales por categoría:
-![Captura de pantalla de tu query](images/query&result_1.jpg)
+Ventas totales por categoría:![Captura de pantalla de tu query](images/query&result_1.jpg)
 
 
