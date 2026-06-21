@@ -1,3 +1,5 @@
+Proyect Ranking and prizes for simultaneous registration In Loom Video:https://www.loom.com/share/05ebbe89461a41c99ce48e4c845173b9
+
 # Data_Analysis_Portfolio
 Sales Analysis: Superstore Dataset
 Este proyecto consiste en un análisis detallado del desempeño de ventas de la 'Superstore Dataset', una base de datos orientada al sector minorista. El objetivo principal es transformar datos brutos en inteligencia de negocio procesable mediante consultas SQL estructuradas.
